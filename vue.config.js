@@ -1,7 +1,7 @@
 const { defineConfig } = require('@vue/cli-service');
 
 module.exports = defineConfig({
-  publicPath:'/sibset/',
+  publicPath:'/sibset-settings/',
   transpileDependencies: true,
   css: { extract: true },
 });
